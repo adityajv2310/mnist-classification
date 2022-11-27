@@ -1,4 +1,7 @@
-# Convolutional Deep Neural Network for Digit Classification
+### EXP NO: 03
+### DATE: 19.09.2022
+
+# <p align = "center"> Convolutional Deep Neural Network for Digit Classification
 
 ## AIM:
 
@@ -32,7 +35,7 @@ Split the data into train and test.
 ### STEP 6: 
 Build the convolutional neural network model.
 
-### STEP-7: 
+### STEP 7: 
 Train the model with the training data.
 
 ### STEP 8: 
@@ -46,6 +49,11 @@ Fit the model and predict the single input.
 
 
 ## PROGRAM:
+
+```
+Developed By: Aditya JV
+Register Number: 212220230002
+```
 
 ```Python
 import numpy as np
